@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @BariTimori
-- 👀 I’m interested in PHP / Laravel Doveloper
-- 🌱 Bachelor CS
-
-<!---
-BariTimori/BariTimori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I’m Matin Timori, a passionate developer focused on PHP and Laravel.
+🎯 I specialize in building robust and scalable RESTful APIs.
+🎓 Bachelor’s degree in Computer Science.
+💡 I love solving complex challenges and developing software that truly makes a difference.
